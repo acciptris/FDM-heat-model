@@ -18,6 +18,6 @@ delta_y = 0.004
 delta_t = 1
 
 #Final time in seconds
-t = 10
+t = 60
 #Length of Square domain of block
 L = 0.04
